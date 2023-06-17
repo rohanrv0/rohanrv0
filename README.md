@@ -1,5 +1,5 @@
 - 👋 Hi, I’m rohan verma @rohanrv0
-- 👀 I’m interested in codind, web development and mostly ai.
+- 👀 I’m interested in coding, web development and mostly in ai.
 - 🌱 I’m currently learning web development from apni kaksha.
 - 💞️ I’m looking to collaborate on new projects and freshers experience.
 - 📫 contact me on email id- redmik20jee@gmail.com
